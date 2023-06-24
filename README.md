@@ -5,7 +5,7 @@
 Make sure you have the latest version of Python installed.
 
 ```bash
-git clone https://github.com/Abdulkader-Safi/Flask-mini-todo-web-application.git todo
+git clone https://github.com/Abdulkader-Safi/Flask-mini-todo-web-application.git
 ```
 
 ### inside project directory create python virtual environment
